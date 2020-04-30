@@ -1,0 +1,43 @@
+.container1{
+    width: 100vw;
+    height: 33.3vh;
+    font-size: 20px;
+    color: white;
+    background-color: #263238;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container2{
+    width: 100vw;
+    height: 33.3vh;
+    font-size: 15px;
+    color: white;
+    background-color:#1565c0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container3{
+    font-size: 15px;
+    width: 100vw;
+    height: 33.3vh;
+    color: white;
+    background-color:#42A5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    font-size: 13px;
+}
+
+.location{
+
+}
+
+.date{
+
+}
+
+.p{
+
+}
+
