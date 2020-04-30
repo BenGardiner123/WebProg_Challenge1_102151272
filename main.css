@@ -2,6 +2,7 @@
 
 
 .container1{
+    min-width: 100vw;
     width: 100vw;
     height: 33.3vh;
     color: white;
@@ -14,6 +15,7 @@
 }
 
 .container2{
+    min-width: 100vw;
     width: 100vw;
     height: 33.3vh;
     font-size: 15px;
@@ -28,6 +30,7 @@
 }
 
 .container3{
+    min-width: 100vw;
     font-size: 15px;
     width: 100vw;
     height: 33.3vh;
@@ -48,8 +51,6 @@
     
 }
 
-
-
 .title{
     font-size: 26px;
     font-weight: bold;
@@ -62,9 +63,9 @@
 
 .location{
     font-weight: bold;
-    padding-left: 5%;
+    padding-left: 3%;
     padding-top: 12px   ;
-    padding-bottom: 0;
+    padding-bottom: 8px;
     padding-right: 0;
 }
 
@@ -83,5 +84,9 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     margin-left: 5%;
+}
+
+.text {
+    margin-left: 47px;
 }
 
